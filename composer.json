@@ -1,6 +1,16 @@
 {
     "name": "gekannt/shdateformatter",
     "description": "makes handling dates easy",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "shdateformatter\\": "src/ShDateFormatter.php"
+        },
+        "files": ["src/Create.php"]
+    },
     "authors": [
         {
             "name": "Hans Lauer",
@@ -16,5 +26,5 @@
     "require": {
         "gekannt/shdateformatter": "dev-master"
     },
-    "version": "1.0.0"
+    "version": "1.0"
 }
