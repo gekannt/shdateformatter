@@ -1,0 +1,19 @@
+{
+    "name": "gekannt/shdateformatter",
+    "description": "makes handling dates easy",
+    "authors": [
+        {
+            "name": "Hans Lauer",
+            "email": "contact@alexshulzhenko.ru"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/gekannt/shdateformatter"
+        }
+    ],
+    "require": {
+        "gekannt/shdateformatter": "dev-master"
+    }
+}
