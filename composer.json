@@ -29,7 +29,7 @@
         }
     ],
     "require": {
-        "gekannt/shdateformatter": "dev-master"
-    },
+        "gekannt/shdateformatter": "1.0"
+    }
 
 }
