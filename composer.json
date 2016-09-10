@@ -27,9 +27,7 @@
             "type": "vcs",
             "url": "https://github.com/gekannt/shdateformatter"
         }
-    ],
-    "require": {
-        "gekannt/shdateformatter": "1.0"
-    }
+    ]
+
 
 }
