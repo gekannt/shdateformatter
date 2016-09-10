@@ -2,6 +2,11 @@
     "name": "gekannt/shdateformatter",
     "description": "makes handling dates easy",
     "type": "library",
+    "keywords": [
+        "date",
+        "time",
+        "DateTime"
+    ],
     "require": {
         "php": ">=5.4.0"
     },
@@ -9,7 +14,7 @@
         "psr-4": {
             "shdateformatter\\": "src/ShDateFormatter.php"
         },
-        "files": ["src/Create.php"]
+        "files": ["src/ShDateFormatter.php"]
     },
     "authors": [
         {
